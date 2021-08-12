@@ -14,7 +14,9 @@
 
  平台 Android Studio，语言：Java
  
- 文件过大无法上传，见百度网盘 链接: https://pan.baidu.com/s/1o0oLEzV2YfpudUMEZFjSjA 提取码: 3xvw 复制这段内容后打开百度网盘手机App，操作更方便哦
+ 另一个pdf文档是这个应用的软件设计，实现报告
+ 
+ 程序文件过大无法上传，见百度网盘 链接: https://pan.baidu.com/s/1o0oLEzV2YfpudUMEZFjSjA 提取码: 3xvw 复制这段内容后打开百度网盘手机App，操作更方便哦
  
  一些截图：
  
